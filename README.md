@@ -47,7 +47,7 @@ The dataset includes details such as:
 
 ## Project Breakdown
 
-### 📌 Phase 1: Data Cleaning
+### Phase 1: Data Cleaning
 
 Performed in both SQL and Python:
 - Standardized fat content categories (`LF`, `low fat`, `reg` → `Low Fat`, `Regular`)
@@ -58,7 +58,7 @@ Final clean data enabled consistent aggregation and grouping in subsequent analy
 
 ---
 
-### 📊 Phase 2: KPI & Business Metrics
+### Phase 2: KPI & Business Metrics
 
 Using SQL and Python, the following KPIs were calculated:
 - **Total Sales:** `$1,201,681`
@@ -70,7 +70,7 @@ These KPIs provided a strong foundation to assess performance across outlets, pr
 
 ---
 
-### 📈 Phase 3: Exploratory Data Analysis (EDA)
+### Phase 3: Exploratory Data Analysis (EDA)
 
 #### A. Sales by Product Attributes
 - Pie chart of **Sales by Fat Content**
@@ -132,11 +132,11 @@ Data Enthusiast | Data Analyst
 Have feedback, collaboration ideas, or project opportunities?  
 I’d love to hear from you:
 
-- 🐦 Twitter: [@FiscalMindAcct](https://twitter.com/FiscalMindAcct)  
-- 💼 LinkedIn: [oluwapelumiotun](https://www.linkedin.com/in/oluwapelumiotun)  
-- 📧 Email: oluwapelumiotun@gmail.com
+- Twitter: [@FiscalMindAcct](https://twitter.com/FiscalMindAcct)  
+- LinkedIn: [oluwapelumiotun](https://www.linkedin.com/in/oluwapelumiotun)  
+- Email: oluwapelumiotun@gmail.com
 
 ---
 
-> ⭐ If this project inspired or helped you, please give it a star!
+> If this project inspired or helped you, please give it a star!
 
