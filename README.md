@@ -134,7 +134,7 @@ I’d love to hear from you:
 
 - Twitter: [@FiscalMindAcct](https://twitter.com/FiscalMindAcct)  
 - LinkedIn: [oluwapelumiotun](https://www.linkedin.com/in/oluwapelumiotun)  
-- Email: oluwapelumiotun@gmail.com
+- Email: ayodeleotunfm@gmail.com
 
 ---
 
